@@ -1,6 +1,6 @@
 ﻿namespace ProgSED
 {
-    partial class Form2
+    partial class Add
     {
         /// <summary>
         /// Required designer variable.
@@ -239,7 +239,7 @@
             this.button1.Text = "Сохранить";
             this.button1.UseVisualStyleBackColor = true;
             // 
-            // Form2
+            // Add
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -265,7 +265,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
-            this.Name = "Form2";
+            this.Name = "Add";
             this.Text = "Добавление и редактирование документа";
             this.ResumeLayout(false);
             this.PerformLayout();
