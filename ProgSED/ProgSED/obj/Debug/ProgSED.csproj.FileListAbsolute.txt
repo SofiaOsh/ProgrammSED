@@ -1,1 +1,9 @@
 D:\Учеба\ИиВТ\2 курс\ПИ\ProgSED\ProgSED\bin\Debug\ProgSED.exe.config
+D:\Учеба\ИиВТ\2 курс\ПИ\ProgSED\ProgSED\bin\Debug\ProgSED.exe
+D:\Учеба\ИиВТ\2 курс\ПИ\ProgSED\ProgSED\bin\Debug\ProgSED.pdb
+D:\Учеба\ИиВТ\2 курс\ПИ\ProgSED\ProgSED\obj\Debug\ProgSED.csprojResolveAssemblyReference.cache
+D:\Учеба\ИиВТ\2 курс\ПИ\ProgSED\ProgSED\obj\Debug\ProgSED.Form1.resources
+D:\Учеба\ИиВТ\2 курс\ПИ\ProgSED\ProgSED\obj\Debug\ProgSED.Properties.Resources.resources
+D:\Учеба\ИиВТ\2 курс\ПИ\ProgSED\ProgSED\obj\Debug\ProgSED.csproj.GenerateResource.Cache
+D:\Учеба\ИиВТ\2 курс\ПИ\ProgSED\ProgSED\obj\Debug\ProgSED.exe
+D:\Учеба\ИиВТ\2 курс\ПИ\ProgSED\ProgSED\obj\Debug\ProgSED.pdb
