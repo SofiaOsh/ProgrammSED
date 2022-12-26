@@ -10,11 +10,13 @@ using System.Windows.Forms;
 
 namespace ProgSED
 {
-    public partial class Form2 : Form
+    public partial class TabControl : Form
     {
-        public Form2()
+        public TabControl()
         {
             InitializeComponent();
         }
+
+
     }
 }
